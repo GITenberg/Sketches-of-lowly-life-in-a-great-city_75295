@@ -1,0 +1,32 @@
+_repo: Sketches-of-lowly-life-in-a-great-city_75295
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woolf, Michael Angelo
+    gutenberg_agent_id: '57928'
+    url: http://www.gutenberg.org/2009/agents/57928
+  editor:
+    agent_name: Henius, Joseph
+    gutenberg_agent_id: '57929'
+    url: http://www.gutenberg.org/2009/agents/57929
+description: ''
+gutenberg_issued: '2025-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75295'
+language: en
+pgterms:marc904: https://archive.org/details/gri_33125012648016/page/n5/mode/2up
+pgterms:marc905: 20220803200611woolf
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aNew York :$bG. P. Putnam''s Sons, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sketches of lowly life in a great city
+url: http://www.gutenberg.org/ebooks/75295
